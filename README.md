@@ -1,126 +1,75 @@
-# 👋 Hi, I'm Thembani!
-
-### 💻 Software Development Student | Backend Developer in Progress 🚀
-
-Welcome to my GitHub profile! I'm a software development student passionate about learning how technology works and building practical solutions through code.
-
-I'm currently strengthening my skills in **Java, Object-Oriented Programming, databases, backend development, testing, and software engineering practices.**
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 Software Development student at **WeThinkCode_**
-- 💻 Currently focusing on **Java & Backend Development**
-- 🧠 Learning **Object-Oriented Programming, APIs, SQL & Software Architecture**
-- 🗄️ Working with **SQLite, JDBC & EoDSQL**
-- 🧪 Interested in **QA & Test Engineering**
-- 🔧 Using **Maven, JUnit, Git & GitLab**
-- 🐳 Learning how **Docker** fits into software development
-- 🚀 Building projects to improve my programming and problem-solving skills
-- 📚 Always learning and improving
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Hi,%20I'm%20Thembani%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<p align="center">
+  Software Development student at <b>WeThinkCode_</b>, South Africa 🇿🇦<br/>
+  Building toward a career in <b>QA</b> & <b>Cybersecurity</b>
 </p>
 
-### 🧪 Testing & Build Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-</p>
-
-### 🔧 Version Control
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
-
-### 🐳 DevOps & Development
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+OOP+%7C+Testing;Learning+QA+Automation;Currently+exploring+Cybersecurity" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🎓 Academic Experience
+### 🧑‍💻 About Me
 
-### 🤖 Robot World-WeThinkCode
-
-A Java-based client/server application where robots operate inside a configurable world.
-
-The project has helped me gain practical experience with:
-
-- ☕ Java
-- 🧱 Object-Oriented Programming
-- 🌐 Client/Server architecture
-- 🔌 APIs & HTTP
-- 🗄️ SQL & SQLite
-- 🔗 JDBC
-- 🧩 EoDSQL
-- 🧪 Unit & Acceptance Testing
-- 📦 Maven
-- 🐳 Docker
-- 🌿 Git & GitLab
-
-I'm continuously improving the project while learning how different parts of a software system communicate with each other.
+- 🎓 Studying Software Development at **WeThinkCode_** — OOP-focused curriculum (Java, Maven, GitLab)
+- 🧪 Elective focus: **QA (Quality Assurance)** and **Cybersecurity**
+- 🛠️ Comfortable with Java, JUnit, and object-oriented design (encapsulation, design patterns, systems design)
+- 📚 Completed a GenAI Course for Software Engineering
+- 💼 Background in retail & customer service before moving into tech
+- 🌱 Currently building test automation projects to sharpen my QA skills
 
 ---
 
-## 📚 What I'm Currently Learning
+### 🧰 Tech Stack
 
-```text
-Java
- ├── Object-Oriented Programming
- ├── Classes & Objects
- ├── Interfaces
- ├── Inheritance
- ├── Polymorphism
- ├── Encapsulation
- └── Exceptions
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
-Backend
- ├── Client / Server
- ├── HTTP
- ├── REST APIs
- └── Request / Response
+---
 
-Databases
- ├── SQL
- ├── SQLite
- ├── JDBC
- ├── EoDSQL
- ├── Repository Pattern
- └── Database Relationships
+### 📊 GitHub Stats
 
-Testing
- ├── JUnit
- ├── Unit Testing
- ├── Acceptance Testing
- └── Code Coverage
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thembani-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thembani-tech&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Tools
- ├── Maven
- ├── Git
- ├── GitLab
- ├── GitHub
- └── Docker
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thembani-tech&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thembani-tech&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thembani-tech/Thembani-tech/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/thembani-mahlulo-321261392/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — always open to feedback on my code!</i></p>
