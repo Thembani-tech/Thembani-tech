@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+OOP+%7C+Testing;Learning+QA+Automation;Currently+exploring+Cybersecurity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Java+%7C+OOP+%7C+Testing;Learning+QA+Automation;Currently+exploring+QA+Testing" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,7 +65,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/thembani-mahlulo-321261392/" target="_blank">
+  <a href="https://www.linkedin.com/in/thembani-mahlulo-321261392/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
